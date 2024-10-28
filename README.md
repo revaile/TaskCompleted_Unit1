@@ -29,5 +29,4 @@ The solution code uses the basic composables covered in Unit 1, Pathway 3 for An
 - [Add images to your Android app](https://developer.android.com/codelabs/basic-android-kotlin-compose-add-images?#0)
 
 There's a lot of room for improvement, so feel free to experiment and try different things. 
-![alt text](https://github.com/revaile/TaskCompleted_Unit1/blob/master/Cuplikan%20layar%202024-10-25%20235821.png
-?raw=true)
+![alt text](https://github.com/revaile/TaskCompleted_Unit1/blob/master/Cuplikan%20layar%202024-10-25%20235821.png?raw=true)
